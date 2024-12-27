@@ -19,7 +19,7 @@ public class Examples2 {
 		Scanner input1 = new Scanner(System.in);
 		System.out.println("Please enter your name : ");
 		String fullName =  input1.nextLine();
-		System.out.println("Your fullName is : " + fullName);
+		System.out.println("Your fullName i11s : " + fullName);
 		
 		Scanner input2 = new Scanner(System.in);
 		System.out.println("Please enter your name : ");
