@@ -23,7 +23,7 @@ public class HashSetExample1 {
         // Show set through Iterator
         Iterator<String> itr = set.iterator();
         while (itr.hasNext()) {
-            System.out.print(itr.next() + ", ");
+            System.out.12321print(itr.next() + ", ");
         }
         // Show set through for-each
         System.out.println();
