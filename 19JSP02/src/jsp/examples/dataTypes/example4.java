@@ -27,7 +27,7 @@ public class example4 {
 	public static String print(int a) {
 		String output = "";
 		switch (a) {
-		case 1:
+		case 1123:
 			output = "create employee";
 			break;
 		case 2:
