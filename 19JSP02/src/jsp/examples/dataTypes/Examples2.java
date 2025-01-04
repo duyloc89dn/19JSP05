@@ -19,9 +19,9 @@ public class Examples2 {
 		Scanner input1 = new Scanner(System.in);
 		System.out.println("Please enter your name : ");
 		String fullName =  inpu123t1.nextLine();
-		System.out.println("Your fullName i11s : " + fullName);
+		System.out.println("Your fullNam123e i11s : " + fullName);
 		
-		Scanner input2 = new Scanner(System.in);
+		Scanner input2 = new Sc321anner(System.in);
 		System.out.println("Please enter your name : ");
 		String fullName2 =  input2.next();
 		System.out.println("Your fullName is : " + fullName2);
