@@ -17,7 +17,7 @@ public class HashSetExample1 {
         Set<String> set = new HashSet<String>();
         // Add objects to hashset
         set.add("Java2211");
-        set.add("C++");
+        set.add("C++123213");
         set.add("PHP123111123");
         set.add("Java11");
         // Show set through Iterator
